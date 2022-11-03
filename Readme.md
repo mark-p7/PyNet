@@ -16,4 +16,9 @@
     3. dotnet add package IronPython.StdLib <br>
     4. dotnet run <br>
     </p>
+    <h3 style="font-weight: bold;">Imports</h3>
+    <code>
+    using IronPython.Runtime;<br>
+    using IronPython.Hosting;
+    <code>
 </div>
